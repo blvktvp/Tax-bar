@@ -6,7 +6,7 @@ body {
   align-items: center;
   padding: 0;
   margin: 0;
-  background: white;
+  background: gray;
   background: linear-gradient(236deg, rgba(199, 152, 152, 0.817) 0%, #deaed4 100%);
 }
 
