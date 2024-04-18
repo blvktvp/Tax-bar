@@ -113,7 +113,7 @@ a {
   display: block !important;
 }
 .menu .checkbox:checked + * .nav-item > i {
-  color: #fff;
+  color: red;
   display: block;
   transition: all 0.5s linear;
 }
