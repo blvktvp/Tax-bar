@@ -42,7 +42,7 @@ a {
   transform: translate(-50%, 0);
   font-size: 12px;
   background: #222;
-  color: #fff;
+  color: gray;
   padding: 5px;
   border-radius: 5px;
   width: max-content;
